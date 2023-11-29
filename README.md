@@ -1,2 +1,2 @@
-# smarter_smds_sers01_0_sads_20220902_spec_000001
-表面增強拉曼(SERS)數據集
+# 表面增強拉曼(SERS)數據集
+農藥SERS光譜資訊
